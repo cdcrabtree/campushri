@@ -8,33 +8,35 @@ date = 2016-04-20T00:00:00
 weight = 5
 
 # List your academic interests.
-[interests]
-  interests = [
-    "Artificial Intelligence",
-    "Computational Linguistics",
-    "Information Retrieval"
-  ]
+#[interests]
+#  interests = [
+#    "Artificial Intelligence",
+#    "Computational Linguistics",
+#    "Information Retrieval"
+#  ]
 
-# List your qualifications (such as academic degrees).
-[[education.courses]]
-  course = "PhD in Artificial Intelligence"
-  institution = "Stanford University"
-  year = 2012
+## List your qualifications (such as academic degrees).
+#[[education.courses]]
+#  course = "PhD in Artificial Intelligence"
+#  institution = "Stanford University"
+#  year = 2012
 
-[[education.courses]]
-  course = "MEng in Artificial Intelligence"
-  institution = "Massachusetts Institute of Technology"
-  year = 2009
+#[[education.courses]]
+#  course = "MEng in Artificial Intelligence"
+#  institution = "Massachusetts Institute of Technology"
+#  year = 2009
 
-[[education.courses]]
-  course = "BSc in Artificial Intelligence"
-  institution = "Massachusetts Institute of Technology"
-  year = 2008
+#[[education.courses]]
+#  course = "BSc in Artificial Intelligence"
+#  institution = "Massachusetts Institute of Technology"
+#  year = 2008
  
 +++
 
-# Biography
+# Welcome!
 
-Lena Smith is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+College campuses have once again become a [battleground over human rights](https://www.washingtonpost.com/news/morning-mix/wp/2015/11/10/mizzou-protest-shows-colleges-are-once-again-becoming-civil-rights-battlegrounds/).
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. 
+CHRI ranks [320 nationally ranked American college campuses](#) based on the extent to which they support [human rights](#), such as free speech or the right to assembly.
+
+The inaugural rankings will be released in _Summer 2019_. 

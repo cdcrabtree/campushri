@@ -9,7 +9,7 @@
 baseurl = "/"
 
 # Title of your site
-title = "Academic"
+title = "Campus Human Rights Index"
 
 # Your copyright notice - appears in site footer.
 # To display a copyright symbol, type `&copy;`.
@@ -23,7 +23,7 @@ preserveTaxonomyNames = true
 paginate = 10
 
 # Enable comments by entering your Disqus shortname
-disqusShortname = ""
+disqusShortname = "@disqus_s80rU7N8vr"
 
 # Enable analytics by entering your Google Analytics tracking ID
 googleAnalytics = ""
@@ -52,35 +52,35 @@ enableGitInfo = false
   # AUTHOR SETUP
 
   # Your details.
-  name = "Lena Smith"
-  role = "Professor of Artificial Intelligence"
+  name = " "
+  role = "Measuring Campus Human Rights Commitments"
 
   # Organizations/Affiliations.
   #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
-  organizations = [ { name = "Stanford University", url = "" } ]
+  #organizations = [ { name = "Stanford University", url = "" } ]
 
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
-  avatar = "portrait.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
+  avatar = "chris_logo_gold.png"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
 
   # Details for the Contact Widget
-  email = "test@example.org"
-  address = "Building 1 Room 1, Stanford University, California, 90210, USA"
-  office_hours = """
-  Monday 10:00 to 13:00<br>
-  Wednesday 09:00 to 10:00<br>
-  Otherwise email to book an appointment
-  """
-  phone = "888 888 88 88"
-  skype = "echo123"
-  telegram = ""
-  keybase = ""  # Your keybase.io username.
+  email = "info@campushri.org"
+  address = "Campus Human Rights Index, International Institute, 500 Church Street, Suite 300, Ann Arbor, MI 48109-1042"
+  #office_hours = """
+  #Monday 10:00 to 13:00<br>
+  #Wednesday 09:00 to 10:00<br>
+  #Otherwise email to book an appointment
+  #"""
+  phone = "734.763.9200"
+  skype = "campushri"
+  #telegram = ""
+  #keybase = ""  # Your keybase.io username.
 
   # Enter an optional link for booking appointments (e.g. calendly.com).
   appointment_url = ""
 
   # Discussion link (e.g. link to a forum, mailing list, or chat).
   #   Uncomment line below to use.
-  #   discussion = { name = "Discuss", url = "https://discourse.gohugo.io" }
+  discussion = { name = "Join Mailing List", url = "https://groups.google.com/forum/#!forum/campus-human-rights-index" }
 
   # Enable/disable map in Contact widget.
   # To show your address on a map in the contact widget, you need to enter your latitude, longitude and choose
@@ -99,34 +99,34 @@ enableGitInfo = false
   #   3: OpenStreetMap (Mapbox)
   map = 0
   map_api_key = ""
-  latitude = "37.4275"
-  longitude = "-122.1697"
+  latitude = "42.276776"
+  longitude = "-83.7372427"
   zoom = 15
 
   # SITE SETUP
 
   # Color theme.
   #   Choose from `default`, `ocean`, `forest`, `dark`, `apogee`, `1950s`, `coffee`, `cupcake`.
-  color_theme = "default"
+  color_theme = "ocean"
   # Enable users to switch between day and night mode?
-  day_night = true
+  day_night = false
 
   # Font style.
   #   Choose from `default`, `classic`, or `playfair`.
   font = "default"
 
   # Description for social sharing and search engines. If undefined, author role is used in place.
-  description = ""
+  description = "Campus Human Rights Index, a project to assess and rank the human rights practices of American universities."
 
   # Default image for social sharing and search engines. Place image in `static/img/` folder and specify image name here.
-  sharing_image = ""
+  sharing_image = "chri_black.png"
 
   # Twitter username (without @). Used when a vistor shares your site on Twitter.
-  twitter = ""
+  twitter = "campushri"
 
   # Diplay a logo in navigation bar rather than title (optional).
   #   To enable, place an image in `static/img/` and reference its filename below. To disable, set the value to "".
-  logo = ""
+  logo = "chris_logo.png"
 
   # Date and time format (refer to https://sourcethemes.com/academic/docs/customization/#date-format )
   #   Examples: "Mon, Jan 2, 2006" or "2006-01-02"
@@ -141,7 +141,7 @@ enableGitInfo = false
   comment_count = true
 
   # Display next/previous section pager?
-  section_pager = false
+  section_pager = true
 
   # Enable global LaTeX math rendering?
   #   If false, you can enable it locally on a per page basis.
@@ -260,25 +260,25 @@ enableGitInfo = false
   #
   #   Full list: https://jpswalsh.github.io/academicons/
 
-  [[params.social]]
-    icon = "envelope"
-    icon_pack = "fas"
-    link = "#contact"  # For a direct email link, use "mailto:test@example.org".
+  #[[params.social]]
+  #  icon = "envelope"
+  #  icon_pack = "fas"
+  #  link = "#contact"  # For a direct email link, use "mailto:test@example.org".
 
-  [[params.social]]
-    icon = "twitter"
-    icon_pack = "fab"
-    link = "https://twitter.com/GeorgeCushen"
+  #[[params.social]]
+  #  icon = "twitter"
+  #  icon_pack = "fab"
+  #  link = "https://twitter.com/GeorgeCushen"
 
-  [[params.social]]
-    icon = "google-scholar"
-    icon_pack = "ai"
-    link = "https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ"
+  #[[params.social]]
+  #  icon = "google-scholar"
+  #  icon_pack = "ai"
+  #  link = "https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ"
 
-  [[params.social]]
-    icon = "github"
-    icon_pack = "fab"
-    link = "https://github.com/gcushen"
+  #[[params.social]]
+  #  icon = "github"
+  #  icon_pack = "fab"
+  #  link = "https://github.com/gcushen"
 
   # Link to a PDF of your resume/CV from the About widget.
   # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
@@ -301,12 +301,12 @@ enableGitInfo = false
   weight = 1
 
 [[menu.main]]
-  name = "Publications"
+  name = "Details"
   url = "#publications_selected"
   weight = 2
 
 [[menu.main]]
-  name = "Posts"
+  name = "Timeline"
   url = "#posts"
   weight = 3
 
@@ -314,11 +314,6 @@ enableGitInfo = false
   name = "Projects"
   url = "#projects"
   weight = 4
-
-[[menu.main]]
-  name = "Tutorials"
-  url = "/tutorial/"
-  weight = 5
 
 [[menu.main]]
   name = "Contact"
