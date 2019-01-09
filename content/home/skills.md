@@ -6,11 +6,11 @@ date = 2017-09-20T00:00:00
 # Activate this widget? true/false
 active = true
 
-title = "Skills"
+title = "Highlights"
 subtitle = ""
 
 # Order that this section will appear in.
-weight = 7
+weight = 2
 
 # Showcase personal skills or business features.
 # 
@@ -22,21 +22,21 @@ weight = 7
 # * ai - academic icons (see https://jpswalsh.github.io/academicons/)
 
 [[feature]]
-  icon = "r-project"
+  icon = "osi"
+  icon_pack = "fas"
+  name = "New tools"
+  description = "Developed with [open-sourced](https://github.com/campushri) tools"
+
+[[feature]]
+  icon = "github"
   icon_pack = "fab"
-  name = "R"
-  description = "90%"
-  
+  name = "New data"
+  description = "Data available on [Github](https://github.com/campushri)"
+
 [[feature]]
   icon = "chart-line"
   icon_pack = "fas"
-  name = "Statistics"
-  description = "100%"  
-  
-[[feature]]
-  icon = "camera-retro"
-  icon_pack = "fas"
-  name = "Photography"
-  description = "10%"
+  name = "New analyses"
+  description = "Working paper series"  
 
 +++
