@@ -301,12 +301,12 @@ enableGitInfo = false
   weight = 1
 
 [[menu.main]]
-  name = "Details"
+  name = "Highlights"
   url = "#publications_selected"
   weight = 2
 
 [[menu.main]]
-  name = "Timeline"
+  name = "Team"
   url = "#posts"
   weight = 3
 
