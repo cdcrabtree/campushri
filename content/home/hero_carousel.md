@@ -19,7 +19,7 @@ height = "295px"
 # Duplicate an `[[item]]` block to add more slides.
 [[item]]
   title = "CHRI Team Members"
-  content = "![Michelle Bellino](../static/img/team/bellino.png) [Michelle Bellino](http://michellejbellino.com/) is Assistant Professor in the [School of Education](http://www.soe.umich.edu/)."
+  content = "![Michelle Bellino](/static/img/team/bellino.png) [Michelle Bellino](http://michellejbellino.com/) is Assistant Professor in the [School of Education](http://www.soe.umich.edu/)."
   align = "left"
 
   overlay_color = "#000"  # An HTML color value.
