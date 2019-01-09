@@ -64,10 +64,10 @@ enableGitInfo = false
 
   # Details for the Contact Widget
   email = "info@campushri.org"
-  address = ""Campus Human Rights Index
+  address = """Campus Human Rights Index
   International Institute<br>
   500 Church Street, Suite 300<br> 
-  Ann Arbor, MI 48109-1042""
+  Ann Arbor, MI 48109-1042"""
   #office_hours = """
   #Monday 10:00 to 13:00<br>
   #Wednesday 09:00 to 10:00<br>
