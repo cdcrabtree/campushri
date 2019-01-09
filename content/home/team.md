@@ -13,7 +13,7 @@ interval = false
 
 # Minimum slide height.
 # Specify a height to ensure a consistent height for each slide.
-height = "295px"
+height = "500"
 
 # Slides.
 # Duplicate an `[[item]]` block to add more slides.
@@ -22,28 +22,28 @@ height = "295px"
   content = "![Michelle Bellino](https://hopeful-meninsky-348e1c.netlify.com/img/team/bellino.png) [Michelle Bellino](http://michellejbellino.com/) is Assistant Professor in the [School of Education](http://www.soe.umich.edu/)."
   align = "left"
 
-  overlay_color = "#333"  # An HTML color value.
+  overlay_color = "#555"  # An HTML color value.
 
 [[item]]
   title = "CHRI Team"
   content = "![Volha Chykina](https://hopeful-meninsky-348e1c.netlify.com/img/team/chykina.jpg) [Volha Chykina](http://volhachykina.org) is Postdoctoral Fellow at the [Donia Human Rights Center](https://ii.umich.edu/humanrights) at the University of Michigan."
   align = "left"
 
-  overlay_color = "#333"  # An HTML color value.
+  overlay_color = "#555"  # An HTML color value.
 
 [[item]]
   title = "CHRI Team"
   content = "![Christian Davenport](https://hopeful-meninsky-348e1c.netlify.com/img/team/davenport.png) [Christian Davenport](https://christiandavenportphd.weebly.com/) is Professor of [Political Science](https://lsa.umich.edu/polisci) and Faculty Associate at the [Center for Political Studies](https://www.isr.umich.edu/cps/)."
   align = "left"
 
-  overlay_color = "#333"  # An HTML color value.
+  overlay_color = "#555"  # An HTML color value.
 
 [[item]]
   title = "CHRI Team"
   content = "![Kiyoteru Tsutsui](https://hopeful-meninsky-348e1c.netlify.com/img/team/tsutsui.png) [Kiyoteru Tsutsui](https://lsa.umich.edu/soc/people/faculty/tsutsui.html) is Professor of [Sociology](https://lsa.umich.edu/soc/), Director of the [Center for Japanese Studies](https://ii.umich.edu/cjs) and Director of the [Donia Human Rights Center](https://ii.umich.edu/humanrights) at the University of Michigan."
   align = "left"
 
-  overlay_color = "#333"  # An HTML color value.
+  overlay_color = "#555"  # An HTML color value.
 
 
 +++

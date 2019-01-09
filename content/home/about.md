@@ -3,11 +3,11 @@
 widget = "about"
 active = true
 date = 2016-04-20T00:00:00
+share = true  # Show social sharing links?
 
 # Order that this section will appear in.
 weight = 1
 
-share = true  # Show social sharing links?
 
 # List your academic interests.
 #[interests]
@@ -33,6 +33,8 @@ share = true  # Show social sharing links?
 #  institution = "Massachusetts Institute of Technology"
 #  year = 2008
  
+ share = true  # Show social sharing links?
+
 +++
 
 # Welcome!

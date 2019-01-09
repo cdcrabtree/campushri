@@ -64,14 +64,17 @@ enableGitInfo = false
 
   # Details for the Contact Widget
   email = "info@campushri.org"
-  address = "Campus Human Rights Index, International Institute, 500 Church Street, Suite 300, Ann Arbor, MI 48109-1042"
+  address = ""Campus Human Rights Index
+  International Institute<br>
+  500 Church Street, Suite 300<br> 
+  Ann Arbor, MI 48109-1042""
   #office_hours = """
   #Monday 10:00 to 13:00<br>
   #Wednesday 09:00 to 10:00<br>
   #Otherwise email to book an appointment
   #"""
   phone = "734.763.9200"
-  skype = "campushri"
+ #skype = "campushri"
   #telegram = ""
   #keybase = ""  # Your keybase.io username.
 
@@ -302,7 +305,7 @@ enableGitInfo = false
 
 [[menu.main]]
   name = "Highlights"
-  url = "#publications_selected"
+  url = "#highlights"
   weight = 2
 
 [[menu.main]]
