@@ -32,8 +32,6 @@ weight = 1
 #  course = "BSc in Artificial Intelligence"
 #  institution = "Massachusetts Institute of Technology"
 #  year = 2008
- 
- share = true  # Show social sharing links?
 
 +++
 
