@@ -13,12 +13,12 @@ interval = false
 
 # Minimum slide height.
 # Specify a height to ensure a consistent height for each slide.
-height = "500px"
+height = "295px"
 
 # Slides.
 # Duplicate an `[[item]]` block to add more slides.
 [[item]]
-  title = "CHRI Team Members\"
+  title = "CHRI Team Members"
   content = "![Michelle Bellino](../static/img/team/bellino.png) [Michelle Bellino](http://michellejbellino.com/) is Assistant Professor in the [School of Education](http://www.soe.umich.edu/)."
   align = "left"
 
