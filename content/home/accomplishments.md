@@ -11,7 +11,7 @@ weight = 15
 
 # Date format
 #   Refer to https://sourcethemes.com/academic/docs/customization/#date-format
-date_format = "Jan 2006"
+date_format = "January 2, 2006"
 
 # Accomplishments.
 #   Add/remove as many `[[item]]` blocks below as you like.
@@ -20,27 +20,19 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[item]]
-  title = "Neural Networks and Deep Learning"
-  organization = "Coursera"
+  title = "Public release of CHRI Beta"
+  organization = "Here"
   certificate_url = ""
-  date_start = "2018-10-01"
+  date_start = "2019-08-01"
   date_end = ""
-  description = ""
+  description = "This summer we will release the beta version of our Campus Human Rights Index, along with a set of tools that allow for rich, interactive exploration of the measure."
 
 [[item]]
-  title = "Blockchain Fundamentals"
-  organization = "edX"
+  title = "Inaugural Campus Human Rights Conference"
+  organization = "University of Michigan, Ann Arbor"
   certificate_url = ""
-  date_start = "2018-03-01"
+  date_start = "2018-11-30"
   date_end = ""
-  description = ""
+  description = "We held a private conference attended by the directors of some of the largest campus human rights institutions in America. We presented the Alpha version of our measure and solicited feedback."
   
-[[item]]
-  title = "Intro to Python"
-  organization = "DataCamp"
-  certificate_url = ""
-  date_start = "2017-07-01"
-  date_end = "2017-12-21"
-  description = ""
-
 +++
