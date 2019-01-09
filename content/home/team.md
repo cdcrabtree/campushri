@@ -13,13 +13,13 @@ interval = false
 
 # Minimum slide height.
 # Specify a height to ensure a consistent height for each slide.
-height = "500"
+height = "800"
 
 # Slides.
 # Duplicate an `[[item]]` block to add more slides.
 [[item]]
   title = "CHRI Team"
-  content = "![Michelle Bellino](https://hopeful-meninsky-348e1c.netlify.com/img/team/bellino.png) [Michelle Bellino](http://michellejbellino.com/) is Assistant Professor in the [School of Education](http://www.soe.umich.edu/)."
+  content = "![Michelle Bellino](https://hopeful-meninsky-348e1c.netlify.com/img/team/bellino.png) [Michelle Bellino](http://michellejbellino.com/) is Assistant Professor in the [School of Education](http://www.soe.umich.edu/) at the University of Michigan."
   align = "left"
 
   overlay_color = "#666"  # An HTML color value.

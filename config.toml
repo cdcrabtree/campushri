@@ -64,7 +64,7 @@ enableGitInfo = false
 
   # Details for the Contact Widget
   email = "info@campushri.org"
-  address = """Campus Human Rights Index
+  address = """Campus Human Rights Index<br>
   International Institute<br>
   500 Church Street, Suite 300<br> 
   Ann Arbor, MI 48109-1042"""
@@ -181,6 +181,7 @@ enableGitInfo = false
 
   # Enable native social sharing buttons?
   sharing = true
+  share = true
 
   # Privacy pack
   #   Show a cookie consent message to visitors

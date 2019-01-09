@@ -3,7 +3,7 @@
 widget = "accomplishments"  # Do not modify this line!
 active = true  # Activate this widget? true/false
 
-title = "Project\ Timeline"
+title = "Project\n Timeline"
 subtitle = ""
 
 # Order that this section will appear in.
@@ -25,7 +25,7 @@ date_format = "January 2, 2006"
   certificate_url = ""
   date_start = "2019-08-01"
   date_end = ""
-  description = "This summer we will release the beta version of our Campus Human Rights Index, along with a set of tools that allow for rich, interactive exploration of the measure."
+  description = "In summer 2019 we will release the beta version of our Campus Human Rights Index, along with a set of tools that allow for rich, interactive exploration of the measure."
 
 [[item]]
   title = "Inaugural Campus Human Rights Conference"

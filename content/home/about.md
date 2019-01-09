@@ -43,4 +43,4 @@ CHRI ranks [320 American college campuses :mortar_board:](#) based on the extent
 
 The inaugural rankings :bar_chart: will be released in _Summer 2019_. We will also release the [raw data](#) and the open-source software we've developed to create it.
 
-If you're interesting in learning more, please sign up for [our mailing list :email:](#).
+If you're interested in learning more, please sign up for [our mailing list :email:](#).
