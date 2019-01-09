@@ -3,7 +3,7 @@
 widget = "accomplishments"  # Do not modify this line!
 active = false  # Activate this widget? true/false
 
-title = "Accomplish&shy;ments"
+title = "Timeline"
 subtitle = ""
 
 # Order that this section will appear in.
@@ -22,7 +22,7 @@ date_format = "Jan 2006"
 [[item]]
   title = "Neural Networks and Deep Learning"
   organization = "Coursera"
-  certificate_url = "https://www.coursera.org"
+  certificate_url = ""
   date_start = "2018-10-01"
   date_end = ""
   description = ""
@@ -30,7 +30,7 @@ date_format = "Jan 2006"
 [[item]]
   title = "Blockchain Fundamentals"
   organization = "edX"
-  certificate_url = "https://www.edx.org"
+  certificate_url = ""
   date_start = "2018-03-01"
   date_end = ""
   description = ""
@@ -38,7 +38,7 @@ date_format = "Jan 2006"
 [[item]]
   title = "Intro to Python"
   organization = "DataCamp"
-  certificate_url = "https://www.datacamp.com"
+  certificate_url = ""
   date_start = "2017-07-01"
   date_end = "2017-12-21"
   description = ""

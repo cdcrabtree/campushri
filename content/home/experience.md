@@ -1,7 +1,7 @@
 +++
 # Experience widget.
 widget = "experience"  # Do not modify this line!
-active = true  # Activate this widget? true/false
+active = false  # Activate this widget? true/false
 
 title = "Timeline"
 subtitle = ""
@@ -34,7 +34,7 @@ date_format = "January 2006"
   company = ""
   company_url = ""
   location = ""
-  date_start = "November 22, 2018"
+  date_start = "2018-11-22"
   date_end = "2018-11-22"
   description = """Held inaugural Campus Human Rights Conference."""
 
