@@ -6,7 +6,7 @@ date = 2017-09-20T00:00:00
 # Activate this widget? true/false
 active = true
 
-title = "Highlights"
+title = ""
 subtitle = ""
 
 # Order that this section will appear in.
@@ -23,7 +23,7 @@ weight = 2
 
 [[feature]]
   icon = "osi"
-  icon_pack = "fas"
+  icon_pack = "fab"
   name = "New tools"
   description = "Developed with [open-sourced](https://github.com/campushri) tools"
 
@@ -37,6 +37,6 @@ weight = 2
   icon = "chart-line"
   icon_pack = "fas"
   name = "New analyses"
-  description = "Working paper series"  
+  description = "Available in a [working paper series](#)"  
 
 +++
