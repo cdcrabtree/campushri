@@ -39,6 +39,6 @@ College campuses have once again become a [battleground for human rights deabtes
 
 CHRI ranks [320 nationally ranked American college campuses :mortar_board:](#) based on the extent to which they support [human rights](#), such as free speech :loudspeaker: or the right to assembly :fist:.
 
-The inaugural rankings :bar_chart: will be released in _Summer 2019_. We will also release the [raw data](#) and the software we developed to create it.
+The inaugural rankings :bar_chart: will be released in _Summer 2019_. We will also release the [raw data](#) and the open-source software we've developed to create it.
 
 If you're interesting in learning more, please sign up for [our mailing list :email:](#).
