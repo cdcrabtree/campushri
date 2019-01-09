@@ -35,9 +35,9 @@ weight = 1
 
 # Welcome!
 
-College campuses have once again become a [battleground for human rights deabtes](https://www.washingtonpost.com/news/morning-mix/wp/2015/11/10/mizzou-protest-shows-colleges-are-once-again-becoming-civil-rights-battlegrounds/).
+College campuses have once again become a [battleground for human rights debates](https://www.washingtonpost.com/news/morning-mix/wp/2015/11/10/mizzou-protest-shows-colleges-are-once-again-becoming-civil-rights-battlegrounds/).
 
-CHRI ranks [320 nationally ranked American college campuses :mortar_board:](#) based on the extent to which they support [human rights](#), such as free speech :loudspeaker: or the right to assembly :fist:.
+CHRI ranks [320 American college campuses :mortar_board:](#) based on the extent to which they support [human rights](#), such as free speech :loudspeaker: or the right to assembly :fist:.
 
 The inaugural rankings :bar_chart: will be released in _Summer 2019_. We will also release the [raw data](#) and the open-source software we've developed to create it.
 

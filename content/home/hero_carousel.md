@@ -24,9 +24,9 @@ height = "500px"
 
   # Overlay a color or image (optional).
   #   Deactivate an option by commenting out the line, prefixing it with `#`.
-  overlay_color = "#666"  # An HTML color value.
-  overlay_img = "github.png"  # Image path relative to your `static/img/` folder.
-  overlay_filter = 0.5  # Darken the image. Value in range 0-1.
+  overlay_color = "#000"  # An HTML color value.
+  #overlay_img = "github.png"  # Image path relative to your `static/img/` folder.
+  #overlay_filter = 0.5  # Darken the image. Value in range 0-1.
 
   # Call to action button (optional).
   #   Activate the button by specifying a URL and button label below.
@@ -41,17 +41,17 @@ height = "500px"
   content = "I am left aligned :smile:"
   align = "left"
 
-  overlay_color = "#555"  # An HTML color value.
-  overlay_img = "twitter.png"  # Image path relative to your `static/img/` folder.
-  overlay_filter = 0.5  # Darken the image. Value in range 0-1.
+  overlay_color = "#000"  # An HTML color value.
+  #overlay_img = "twitter.png"  # Image path relative to your `static/img/` folder.
+  #overlay_filter = 0.5  # Darken the image. Value in range 0-1.
 
 [[item]]
   title = "Right"
   content = "I am right aligned :smile:"
   align = "right"
 
-  overlay_color = "#333"  # An HTML color value.
-  overlay_img = "chart.png"  # Image path relative to your `static/img/` folder.
-  overlay_filter = 0.5  # Darken the image. Value in range 0-1.
+  overlay_color = "#000"  # An HTML color value.
+  #overlay_img = "chart.png"  # Image path relative to your `static/img/` folder.
+  #overlay_filter = 0.5  # Darken the image. Value in range 0-1.
 
 +++
