@@ -19,8 +19,8 @@ height = "295px"
 # Duplicate an `[[item]]` block to add more slides.
 [[item]]
   title = "CHRI Team Members"
-  content = "[Michelle Bellino](http://michellejbellino.com/) is Assistant Professor in the [School of Education](http://www.soe.umich.edu/). ![Michelle Bellino](https://hopeful-meninsky-348e1c.netlify.com/img/team/bellino.png)"
-  align = "right"
+  content = "<img src = "https://hopeful-meninsky-348e1c.netlify.com/img/team/bellino.png" style="display: inline"> [Michelle Bellino](http://michellejbellino.com/) is Assistant Professor in the [School of Education](http://www.soe.umich.edu/)."
+  align = "left"
 
   overlay_color = "#000"  # An HTML color value.
   #overlay_img = "twitter.png"  # Image path relative to your `static/img/` folder.
