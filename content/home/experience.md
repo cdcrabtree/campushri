@@ -25,9 +25,9 @@ date_format = "January 2006"
   location = ""
   date_start = "2017-07-01"
   date_end = "2017-08-01"
-  description = ""
+  description = """
   Full release of the beta version of CHRI.
-  ""
+  """
 
 [[experience]]
   title = "Inaugural Campus Human Rights Conference"
