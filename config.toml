@@ -74,7 +74,7 @@ enableGitInfo = false
   #Otherwise email to book an appointment
   #"""
   phone = "734.763.9200"
- #skype = "campushri"
+  #skype = "campushri"
   #telegram = ""
   #keybase = ""  # Your keybase.io username.
 
@@ -314,7 +314,7 @@ enableGitInfo = false
   weight = 3
 
 [[menu.main]]
-  name = "timeline"
+  name = "Timeline"
   url = "#timeline"
   weight = 4
 
