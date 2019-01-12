@@ -6,7 +6,7 @@ date = 2017-09-20T00:00:00
 # Activate this widget? true/false
 active = true
 
-title = "Team"
+title = "CHRI Team"
 subtitle = ""
 
 # Order that this section will appear in.
@@ -22,15 +22,8 @@ weight = 18
 # * ai - academic icons (see https://jpswalsh.github.io/academicons/)
 
 [[feature]]
-  name = "New tools"
-  description = "Developed with [open-sourced](https://github.com/campushri) tools"
+  name = "![Michelle Bellino](https://hopeful-meninsky-348e1c.netlify.com/img/team/bellino.png)"
+  description = "[Michelle Bellino](http://michellejbellino.com/) is Assistant Professor in the [School of Education](http://www.soe.umich.edu/) at the University of Michigan."
 
-[[feature]]
-  name = "New data"
-  description = "Data available on [Github](https://github.com/campushri)"
-
-[[feature]]
-  name = "New analyses"
-  description = "Available in a [working paper series](#)"  
 
 +++
