@@ -10,7 +10,7 @@ title = "CHRI Team"
 subtitle = ""
 
 # Order that this section will appear in.
-weight = 18
+weight = 3
 
 # Showcase personal skills or business features.
 # 
