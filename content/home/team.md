@@ -21,13 +21,13 @@ weight = 3
 # * fab - Font Awesome brand icons (see https://fontawesome.com/icons)
 # * ai - academic icons (see https://jpswalsh.github.io/academicons/)
 
+  [[feature]]
+  name = "![Michelle Bellino](https://hopeful-meninsky-348e1c.netlify.com/img/team/bellino.png)"
+  description = "[Michelle Bellino](http://michellejbellino.com/) is Assistant Professor in the [School of Education](http://www.soe.umich.edu/) at the University of Michigan."
+
 [[feature]]
   name = "![Volha Chykina](https://hopeful-meninsky-348e1c.netlify.com/img/team/chykina.jpg)"
   description = "[Volha Chykina](http://volhachykina.org) is Postdoctoral Fellow at the [Donia Human Rights Center](https://ii.umich.edu/humanrights) at the University of Michigan."
-
-[[feature]]
-  name = "![Charles Crabtree](https://hopeful-meninsky-348e1c.netlify.com/img/team/crabtree.png)"
-  description = "[Charles Crabtree](http://charlescrabtree.com/) is Visiting Scholar in the [Department of Government](https://govt.dartmouth.edu/) at Dartmouth College."
 
 [[feature]]
   name = "![Christian Davenport](https://hopeful-meninsky-348e1c.netlify.com/img/team/davenport.png)"
