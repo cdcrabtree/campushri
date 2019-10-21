@@ -23,9 +23,9 @@ date_format = "January 2, 2006"
   title = "Public release of CHRI Beta"
   organization = "Here"
   certificate_url = ""
-  date_start = "2019-08-01"
+  date_start = "2020-01-01"
   date_end = ""
-  description = "In summer 2019 we will release the beta version of our Campus Human Rights Index, along with a set of tools that allow for rich, interactive exploration of the measure."
+  description = "In winter 2020 we will release the beta version of our Campus Human Rights Index, along with a set of tools that allow for rich, interactive exploration of the measure."
 
 [[item]]
   title = "Inaugural Campus Human Rights Conference"
